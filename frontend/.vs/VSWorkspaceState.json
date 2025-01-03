@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\hooks",
+    "\\frontend\\src\\pages",
+    "\\frontend\\src\\services",
+    "\\frontend\\src\\stores",
+    "\\frontend\\src\\utils"
+  ],
+  "SelectedNode": "\\frontend\\vite.config.js",
+  "PreviewInSolutionExplorer": false
+}
